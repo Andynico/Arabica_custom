@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://andynicolaides.micro.blog/2021/06/04/oclock.html",
+				
+				"content_html": "<p>6 o&rsquo;clock.</p>\n\n<p><img src=\"uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "6 o'clock.\n\n<img src=\"uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-06-04T21:00:46+01:00",
+				"url": "https://thedent.net/2021/06/04/oclock.html",
+				"tags": ["Photography","Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/31/finished-reading-visitor.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857500076\">Visitor</a> by Lee Child 📚</p>\n",
+				"content_text": "Finished reading: [Visitor](https://micro.blog/books/9780857500076) by Lee Child 📚\n",
+				"date_published": "2021-05-31T19:58:20+01:00",
+				"url": "https://thedent.net/2021/05/31/finished-reading-visitor.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/30/heres-a-bit.html",
+				
+				"content_html": "<p>Here’s a bit of an experiment. <a href=\"https://world.hey.com/andyn/dented-issue-1-b8c578e7\">Dented - issue #1</a> 👍</p>\n",
+				"content_text": "Here’s a bit of an experiment. [Dented - issue #1](https://world.hey.com/andyn/dented-issue-1-b8c578e7) 👍 \n",
+				"date_published": "2021-05-30T08:46:28+01:00",
+				"url": "https://thedent.net/2021/05/30/heres-a-bit.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/29/the-issue-with.html",
+				"title": "The Issue With iMessage Backups",
+				"content_html": "<p><img src=\"https://thedent.net/uploads/2021/bc19ee38b6.jpg\" alt=\"\" /></p>\n\n<p><a href=\"https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/\">Spencer Dailey, on accessing iMessage backups</a>:</p>\n\n<blockquote>\n<p>Many iPhone owners have iMessages from years ago that they can’t access. For example, my wife and I simply want to read the first few messages that we exchanged in 2017, but we can’t. A friend of mine recently had to prove she had a relationship with someone for US immigration services, and she was able to quickly download an easily searchable file containing all messages without using a 3rd-party tool in her efforts to do so. But she doesn’t use iMessage, she uses <a href=\"https://www.whatsapp.com/?_fb_noscript=1\">another</a> chat app.</p>\n</blockquote>\n\n<p>At last check I had about <strong>40GB</strong> of iMessage backups in my family iCloud storage. I&rsquo;d never thought about actually <em>accessing</em> any of this data and finding old messages. I&rsquo;ve searched my iMessage archive before, but have never thought about the issues I&rsquo;d have trying to actually just view a chronological history of this stored data.</p>\n\n<p>The fact I&rsquo;ve never had a need to do it is, obviously, why it&rsquo;s never come to mind but it has to be a crappy situation for those that do actually need it. I can imagine a common use-case for trying this in the first place is after a loved one passes away, which is not a time you&rsquo;re going to want to be messing around with phones crashing and the like when you may just want to read some comforting words. Hopefully this is something Apple will address in the future.</p>\n\n<p>One thing I thought may be a, slightly convoluted, option was to go to <a href=\"https://privacy.apple.com/\">privacy.apple.com</a>, first implemented to appease GDPR rules, and request an extract of your iMessage data. This, however, isn&rsquo;t possible, as iMessages are not available as part of this export. I will assume that it&rsquo;s because of encryption. There is an option, apparently, to view the archive database on a Mac, but that&rsquo;s not going to be viable to many.</p>\n\n<p>Long story short, I suppose, try not to retain anything too important to you in your iMessage backup, because it may be a painful experience to ever see it again!</p>\n\n<p>I have a challenge for you. Think about someone you love or care about very much and write them an email, or letter. Something they can keep. Don&rsquo;t be remembered by a set of iMessages stuck in an iCloud backup prison limbo.</p>",
+				"content_text": "![](https://thedent.net/uploads/2021/bc19ee38b6.jpg)\n\n[Spencer Dailey, on accessing iMessage backups](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/):\n\n> Many iPhone owners have iMessages from years ago that they can’t access. For example, my wife and I simply want to read the first few messages that we exchanged in 2017, but we can’t. A friend of mine recently had to prove she had a relationship with someone for US immigration services, and she was able to quickly download an easily searchable file containing all messages without using a 3rd-party tool in her efforts to do so. But she doesn’t use iMessage, she uses [another](https://www.whatsapp.com/?_fb_noscript=1) chat app.\n\nAt last check I had about **40GB** of iMessage backups in my family iCloud storage. I'd never thought about actually *accessing* any of this data and finding old messages. I've searched my iMessage archive before, but have never thought about the issues I'd have trying to actually just view a chronological history of this stored data. \n\nThe fact I've never had a need to do it is, obviously, why it's never come to mind but it has to be a crappy situation for those that do actually need it. I can imagine a common use-case for trying this in the first place is after a loved one passes away, which is not a time you're going to want to be messing around with phones crashing and the like when you may just want to read some comforting words. Hopefully this is something Apple will address in the future. \n\nOne thing I thought may be a, slightly convoluted, option was to go to [privacy.apple.com](https://privacy.apple.com/), first implemented to appease GDPR rules, and request an extract of your iMessage data. This, however, isn't possible, as iMessages are not available as part of this export. I will assume that it's because of encryption. There is an option, apparently, to view the archive database on a Mac, but that's not going to be viable to many. \n\nLong story short, I suppose, try not to retain anything too important to you in your iMessage backup, because it may be a painful experience to ever see it again!\n\nI have a challenge for you. Think about someone you love or care about very much and write them an email, or letter. Something they can keep. Don't be remembered by a set of iMessages stuck in an iCloud backup prison limbo.\n\n<!--more-->\n",
+				"date_published": "2021-05-29T10:50:00+01:00",
+				"url": "https://thedent.net/2021/05/29/the-issue-with.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/28/apple-should-make.html",
+				
+				"content_html": "<p>&ldquo;Apple should make a games console!&rdquo; &hellip; meanwhile: <a href=\"https://thedent.net/2021/05/26/apple-made-a.html\">thedent.net/2021/05/2&hellip;</a></p>\n\n<p><img src=\"uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "\"Apple should make a games console!\" ... meanwhile: [thedent.net/2021/05/2...](https://thedent.net/2021/05/26/apple-made-a.html) \n\n<img src=\"uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2021-05-28T20:53:23+01:00",
+				"url": "https://thedent.net/2021/05/28/apple-should-make.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/28/who-needs-wwdc.html",
+				
+				"content_html": "<p>Who needs WWDC for macOS on an iPad? 😂</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/81db37bb73.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Who needs WWDC for macOS on an iPad? 😂\n\n<img src=\"https://thedent.net/uploads/2021/81db37bb73.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-05-28T18:28:08+01:00",
+				"url": "https://thedent.net/2021/05/28/who-needs-wwdc.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/28/trying-to-have.html",
+				
+				"content_html": "<p>Trying to have a bit of a Twitter break for a bit, and will try to post here more. Starting to get annoyed with some of the things I&rsquo;m reading on Twitter again and I can&rsquo;t be bothered to <em>cultivate</em> my timeline in any way right now.</p>\n",
+				"content_text": "Trying to have a bit of a Twitter break for a bit, and will try to post here more. Starting to get annoyed with some of the things I'm reading on Twitter again and I can't be bothered to _cultivate_ my timeline in any way right now.\n",
+				"date_published": "2021-05-28T18:27:07+01:00",
+				"url": "https://thedent.net/2021/05/28/trying-to-have.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/05/27/these-two-are.html",
+				
+				"content_html": "<p>These two are a nice little pairing …</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/8f1ea498bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "These two are a nice little pairing … \n\n<img src=\"https://thedent.net/uploads/2021/8f1ea498bc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-05-27T18:40:45+01:00",
+				"url": "https://thedent.net/2021/05/27/these-two-are.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://andynicolaides.micro.blog/2021/05/26/my-current-ipad.html",
 				
-				"content_html": "<p>My current iPad Pro homescreen. I really need to get some new, fun apps to play around with.</p>\n\n<p><img src=\"uploads/2021/0ce124f530.png\" width=\"600\" height=\"461\" alt=\"\" /></p>\n",
-				"content_text": "My current iPad Pro homescreen. I really need to get some new, fun apps to play around with.\n\n<img src=\"uploads/2021/0ce124f530.png\" width=\"600\" height=\"461\" alt=\"\" />\n",
+				"content_html": "<p>My current iPad Pro homescreen. I really need to get some new, fun apps to play around with.</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/0ce124f530.png\" width=\"600\" height=\"461\" alt=\"\" /></p>\n",
+				"content_text": "My current iPad Pro homescreen. I really need to get some new, fun apps to play around with.\n\n<img src=\"https://thedent.net/uploads/2021/0ce124f530.png\" width=\"600\" height=\"461\" alt=\"\" />\n",
 				"date_published": "2021-05-26T20:55:09+01:00",
 				"url": "https://thedent.net/2021/05/26/my-current-ipad.html",
 				"tags": ["Microblog"]
@@ -45,8 +117,8 @@
 			{
 				"id": "http://andynicolaides.micro.blog/2021/05/26/this-could-be.html",
 				
-				"content_html": "<p>This could be kind of fun. I may move my blog over to this?</p>\n\n<p><img src=\"uploads/2021/5c414248a3.png\" width=\"600\" height=\"230\" alt=\"\" /></p>\n",
-				"content_text": "This could be kind of fun. I may move my blog over to this?\n\n<img src=\"uploads/2021/5c414248a3.png\" width=\"600\" height=\"230\" alt=\"\" />\n",
+				"content_html": "<p>This could be kind of fun. I may move my blog over to this?</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/5c414248a3.png\" width=\"600\" height=\"230\" alt=\"\" /></p>\n",
+				"content_text": "This could be kind of fun. I may move my blog over to this?\n\n<img src=\"https://thedent.net/uploads/2021/5c414248a3.png\" width=\"600\" height=\"230\" alt=\"\" />\n",
 				"date_published": "2021-05-26T08:20:53+01:00",
 				"url": "https://thedent.net/2021/05/26/this-could-be.html",
 				"tags": ["Microblog"]
@@ -405,8 +477,8 @@
 			{
 				"id": "http://andynicolaides.micro.blog/2021/05/02/view.html",
 				
-				"content_html": "<p>View</p>\n\n<p><img src=\"uploads/2021/6d1f9bbe49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "View\n\n<img src=\"uploads/2021/6d1f9bbe49.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>View</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/6d1f9bbe49.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "View\n\n<img src=\"https://thedent.net/uploads/2021/6d1f9bbe49.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-02T18:09:00+01:00",
 				"url": "https://thedent.net/2021/05/02/view.html",
 				"tags": ["Photography"]
