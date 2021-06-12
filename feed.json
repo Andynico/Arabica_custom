@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://andynicolaides.micro.blog/2021/06/12/poser.html",
+				
+				"content_html": "<p>Poser.</p>\n\n<p><img src=\"uploads/2021/0dcfeff704.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Poser. \n\n<img src=\"uploads/2021/0dcfeff704.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-06-12T10:14:59+01:00",
+				"url": "https://thedent.net/2021/06/12/poser.html",
+				"tags": ["Photography","Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/10/does-anyone-know.html",
+				
+				"content_html": "<p>Does anyone know why the images on my blog are so large and don’t respect the sizes I put into the HTML on the page? I’m assuming the CSS is overriding it somewhere to always set the width as big as possible?</p>\n",
+				"content_text": "Does anyone know why the images on my blog are so large and don’t respect the sizes I put into the HTML on the page? I’m assuming the CSS is overriding it somewhere to always set the width as big as possible?\n",
+				"date_published": "2021-06-10T10:28:59+01:00",
+				"url": "https://thedent.net/2021/06/10/does-anyone-know.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/10/improvements-coming-to.html",
+				"title": "Improvements Coming to iCloud Mail on The Web",
+				"content_html": "<p><img src=\"https://thedent.net/uploads/2021/8ed1b4814b.jpg\" alt=\"heroImage\" /></p>\n\n<p>Apple Mail looks to be receiving some interesting new updates across Apple&rsquo;s OS&rsquo;s this Autumn, with new features like disposable email addresses, the ability to block various tracking methods and even custom domains. This seems like a nice little feature boost, so much so it had me doubting why anyone in the Apple ecosystem would opt for Fastmail over Apple Mail anymore.</p>\n\n<p>One area currently lacking, as stated by <a href=\"https://twitter.com/mattbirchler\">Matt Birchler</a> is the poor webapp experience on iCloud.com.</p>\n\n<p><blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">A usable web app 😏 <a href=\"https://t.co/ddffKmOvvN\">pic.twitter.com/ddffKmOvvN</a></p>— Matt Birchler (@mattbirchler) <a href=\"https://twitter.com/mattbirchler/status/1402643607488589827?ref\\_src=twsrc%5Etfw\">June 9, 2021</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p>I&rsquo;ve regularly kept an eye on the <a href=\"https://beta.icloud.com\">beta version of iCloud.com</a>, so this reminded me to check it out again and see if the team at Apple were actually looking to improve the iCloud mail web experience. I was surprised to see, they are at least looking into it. If you navigate to the Email part of iCloud.com you will see a small, but noticable difference.</p>\n\n<p>This is the old / current version of iCloud.com mail:</p>\n\n<p><img src=\"uploads/2021/86fa199321.jpg\" width=\"333\" height=\"187\" alt=\"\" /></p>\n\n<p>This current version is slow, ugly, and fairly unresponsive. Here&rsquo;s what it looks like on the Beta site:</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/f4cda0a522.jpg\" alt=\"new_iCloud\" /></p>\n\n<p>This new look, whilst not <em>vastly different</em> is a lot closer to the macOS version of the Apple Mail client. From my brief experimentation, it also feels substantially faster. It&rsquo;s far cleaner, and more consistent with the App experience as well.</p>\n\n<p>The way you interact with the emails themselves are also grealty improved. Currently, if you want to reply to an email it will open a new pop-up window. Now, if you press reply you get a nice drop-down, as seen below:</p>\n\n<p><img src=\"uploads/2021/2c7e8f3b16.png\" width=\"22\" height=\"29\" alt=\"\" /></p>\n\n<p>When you reply, there&rsquo;s a nice pop-over reply window, as you can see in my reply to some spam below:</p>\n\n<p><img src=\"uploads/2021/da98ef0969.png\" width=\"274\" height=\"242\" alt=\"\" /></p>\n\n<p>All in all, whilst these are not <em>huge</em> changes, they go quite a way to making the web experience on iCloud Mail far better than it was before. At least, it&rsquo;s now a <em>usable</em> experience.</p>\n\n<p>I&rsquo;ve spoken a lot about where I&rsquo;m going to keep my email recently. I&rsquo;m keen to move away from Gmail, and have been experimenting with Hey and Fastmail, but I&rsquo;ve come to realise iCloud Mail gives me all I need for my fairly basic Email needs. Privacy, essentially unlimited storage, and a good email address (or a selection of addresses with an @mac and <a href=\"https://micro.blog/me\">@me</a> address). The fact that Apple are clearly have at least some kind of focus on their mail offering is reassuring and I&rsquo;m feeling even better about my decision now.</p>",
+				"content_text": "![heroImage](https://thedent.net/uploads/2021/8ed1b4814b.jpg)\n\nApple Mail looks to be receiving some interesting new updates across Apple's OS's this Autumn, with new features like disposable email addresses, the ability to block various tracking methods and even custom domains. This seems like a nice little feature boost, so much so it had me doubting why anyone in the Apple ecosystem would opt for Fastmail over Apple Mail anymore.\n\nOne area currently lacking, as stated by [Matt Birchler](https://twitter.com/mattbirchler) is the poor webapp experience on iCloud.com.\n\n<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">A usable web app 😏 <a href=\"https://t.co/ddffKmOvvN\">pic.twitter.com/ddffKmOvvN</a></p>— Matt Birchler (@mattbirchler) <a href=\"https://twitter.com/mattbirchler/status/1402643607488589827?ref\\_src=twsrc%5Etfw\">June 9, 2021</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\nI've regularly kept an eye on the [beta version of iCloud.com](https://beta.icloud.com), so this reminded me to check it out again and see if the team at Apple were actually looking to improve the iCloud mail web experience. I was surprised to see, they are at least looking into it. If you navigate to the Email part of iCloud.com you will see a small, but noticable difference. \n\nThis is the old / current version of iCloud.com mail:\n\n<img src=\"uploads/2021/86fa199321.jpg\" width=\"333\" height=\"187\" alt=\"\" />\n\nThis current version is slow, ugly, and fairly unresponsive. Here's what it looks like on the Beta site:\n\n![new_iCloud](https://thedent.net/uploads/2021/f4cda0a522.jpg)\n\nThis new look, whilst not *vastly different* is a lot closer to the macOS version of the Apple Mail client. From my brief experimentation, it also feels substantially faster. It's far cleaner, and more consistent with the App experience as well.\n\nThe way you interact with the emails themselves are also grealty improved. Currently, if you want to reply to an email it will open a new pop-up window. Now, if you press reply you get a nice drop-down, as seen below:\n\n<img src=\"uploads/2021/2c7e8f3b16.png\" width=\"22\" height=\"29\" alt=\"\" />\n\nWhen you reply, there's a nice pop-over reply window, as you can see in my reply to some spam below:\n\n<img src=\"uploads/2021/da98ef0969.png\" width=\"274\" height=\"242\" alt=\"\" />\n\nAll in all, whilst these are not *huge* changes, they go quite a way to making the web experience on iCloud Mail far better than it was before. At least, it's now a *usable* experience.\n\nI've spoken a lot about where I'm going to keep my email recently. I'm keen to move away from Gmail, and have been experimenting with Hey and Fastmail, but I've come to realise iCloud Mail gives me all I need for my fairly basic Email needs. Privacy, essentially unlimited storage, and a good email address (or a selection of addresses with an @mac and [@me](https://micro.blog/me) address). The fact that Apple are clearly have at least some kind of focus on their mail offering is reassuring and I'm feeling even better about my decision now.\n\n<!--more-->\n",
+				"date_published": "2021-06-10T10:13:00+01:00",
+				"url": "https://thedent.net/2021/06/10/improvements-coming-to.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/06/currently-reading-leviathan.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781549153020\">Leviathan Wakes</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "Currently reading: [Leviathan Wakes](https://micro.blog/books/9781549153020) by James S. A. Corey 📚\n",
+				"date_published": "2021-06-06T19:38:58+01:00",
+				"url": "https://thedent.net/2021/06/06/currently-reading-leviathan.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/06/i-may-need.html",
+				
+				"content_html": "<p>I may need to turn off seeing replies in my Micro.blog feed. Every time I open it up to ‘get involved’ all I see is the middle of conversations which are awkward to just jump into the middle of.</p>\n",
+				"content_text": "I may need to turn off seeing replies in my Micro.blog feed. Every time I open it up to ‘get involved’ all I see is the middle of conversations which are awkward to just jump into the middle of. \n",
+				"date_published": "2021-06-06T09:03:53+01:00",
+				"url": "https://thedent.net/2021/06/06/i-may-need.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/05/do-you-ever.html",
+				
+				"content_html": "<p>Do you ever get those days when you really fancy writing something but have no ideas if <em>what</em> to write? That’s me today. And most days … 😬</p>\n",
+				"content_text": "Do you ever get those days when you really fancy writing something but have no ideas if *what* to write? That’s me today. And most days … 😬 \n",
+				"date_published": "2021-06-05T20:38:47+01:00",
+				"url": "https://thedent.net/2021/06/05/do-you-ever.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/05/keeping-watch-it.html",
+				
+				"content_html": "<p>Keeping watch. It looks like I added the background myself, but it’s just a board in the enclosure. I could almost really be there …</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/78b714cbdc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Keeping watch. It looks like I added the background myself, but it’s just a board in the enclosure. I could almost really be there … \n\n<img src=\"https://thedent.net/uploads/2021/78b714cbdc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-06-05T17:06:05+01:00",
+				"url": "https://thedent.net/2021/06/05/keeping-watch-it.html",
+				"tags": ["Photography","Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2021/06/05/i-know-how.html",
+				
+				"content_html": "<p>I know how he feels.</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/855a04d146.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I know how he feels. \n\n<img src=\"https://thedent.net/uploads/2021/855a04d146.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-05T17:02:29+01:00",
+				"url": "https://thedent.net/2021/06/05/i-know-how.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://andynicolaides.micro.blog/2021/06/04/oclock.html",
 				
-				"content_html": "<p>6 o&rsquo;clock.</p>\n\n<p><img src=\"uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "6 o'clock.\n\n<img src=\"uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>6 o&rsquo;clock.</p>\n\n<p><img src=\"https://thedent.net/uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "6 o'clock.\n\n<img src=\"https://thedent.net/uploads/2021/4e8002f097.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-04T21:00:46+01:00",
 				"url": "https://thedent.net/2021/06/04/oclock.html",
 				"tags": ["Photography","Microblog"]
@@ -45,8 +117,8 @@
 			{
 				"id": "http://andynicolaides.micro.blog/2021/05/28/apple-should-make.html",
 				
-				"content_html": "<p>&ldquo;Apple should make a games console!&rdquo; &hellip; meanwhile: <a href=\"https://thedent.net/2021/05/26/apple-made-a.html\">thedent.net/2021/05/2&hellip;</a></p>\n\n<p><img src=\"uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "\"Apple should make a games console!\" ... meanwhile: [thedent.net/2021/05/2...](https://thedent.net/2021/05/26/apple-made-a.html) \n\n<img src=\"uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;Apple should make a games console!&rdquo; &hellip; meanwhile: <a href=\"https://thedent.net/2021/05/26/apple-made-a.html\">thedent.net/2021/05/2&hellip;</a></p>\n\n<p><img src=\"https://thedent.net/uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "\"Apple should make a games console!\" ... meanwhile: [thedent.net/2021/05/2...](https://thedent.net/2021/05/26/apple-made-a.html) \n\n<img src=\"https://thedent.net/uploads/2021/fb14400557.png\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-05-28T20:53:23+01:00",
 				"url": "https://thedent.net/2021/05/28/apple-should-make.html",
 				"tags": ["Microblog"]
