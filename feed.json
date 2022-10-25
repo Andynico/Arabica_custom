@@ -7,6 +7,150 @@
 	"items": [
 		
 			{
+				"id": "http://andynicolaides.micro.blog/2022/10/25/i-know-i.html",
+				
+				"content_html": "<p>I know I just need to curate my follows a little better, but I’m really hating to look at my Twitter timeline these days. Not because of ‘doom scrolling’, I think it’s important to be aware of what’s going on in the world, good or bad, but the swathes of entitled arseholes and their opinions is getting to critical mass. Logging into Micro.blog or Mastodon are like when Dorothy steps through that door, the room fills with Technicolor.</p>\n",
+				"content_text": "I know I just need to curate my follows a little better, but I’m really hating to look at my Twitter timeline these days. Not because of ‘doom scrolling’, I think it’s important to be aware of what’s going on in the world, good or bad, but the swathes of entitled arseholes and their opinions is getting to critical mass. Logging into Micro.blog or Mastodon are like when Dorothy steps through that door, the room fills with Technicolor.  \n",
+				"date_published": "2022-10-25T21:21:58+01:00",
+				"url": "https://thedent.net/2022/10/25/i-know-i.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/24/currently-reading-annihilation.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780374537159\">Annihilation</a> by Jeff VanderMeer 📚</p>\n",
+				"content_text": "Currently reading: [Annihilation](https://micro.blog/books/9780374537159) by Jeff VanderMeer 📚\n",
+				"date_published": "2022-10-24T08:03:56+01:00",
+				"url": "https://thedent.net/2022/10/24/currently-reading-annihilation.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/24/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780007331475\">The Alchemist’s Secret (Ben Hope, Book 1)</a> by Scott Mariani 📚</p>\n",
+				"content_text": "Finished reading: [The Alchemist’s Secret (Ben Hope, Book 1)](https://micro.blog/books/9780007331475) by Scott Mariani 📚\n",
+				"date_published": "2022-10-24T02:34:26+01:00",
+				"url": "https://thedent.net/2022/10/24/finished-reading-the.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/23/oh-dear.html",
+				
+				"content_html": "<p>Oh dear.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh dear. \n\n<img src=\"uploads/2022/687ffb40cc.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-23T21:54:35+01:00",
+				"url": "https://thedent.net/2022/10/23/oh-dear.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/23/i-want-to.html",
+				
+				"content_html": "<p>I want to start making notes about as many things I can. Initially for work, things I learn or just need to remember, but I want to start being as detailed as possible. I know this ‘second brain’ thing is not re, but it is for me. What is your go to / recommended app or service for such a thing? I’d like something that looks nice, is fun / enjoyable to use and, preferably is cross platform (I.e. available to access on Windows also).</p>\n<p>What are your thoughts? Any tips on where I’d actually begin with something like this? I’m leaning towards Notion right now, but other contenders include Obsidian, Craft, and plain old Apple Notes.</p>\n",
+				"content_text": "I want to start making notes about as many things I can. Initially for work, things I learn or just need to remember, but I want to start being as detailed as possible. I know this ‘second brain’ thing is not re, but it is for me. What is your go to / recommended app or service for such a thing? I’d like something that looks nice, is fun / enjoyable to use and, preferably is cross platform (I.e. available to access on Windows also). \n\nWhat are your thoughts? Any tips on where I’d actually begin with something like this? I’m leaning towards Notion right now, but other contenders include Obsidian, Craft, and plain old Apple Notes. \n",
+				"date_published": "2022-10-23T21:17:59+01:00",
+				"url": "https://thedent.net/2022/10/23/i-want-to.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/23/am-i-being.html",
+				
+				"content_html": "<p>Am I being stupid or can you not share to Mastodon without also posting to Twitter? I can only see a Twitter toggle on the iOS app which then disabled Mastodon also.</p>\n",
+				"content_text": "Am I being stupid or can you not share to Mastodon without also posting to Twitter? I can only see a Twitter toggle on the iOS app which then disabled Mastodon also. \n",
+				"date_published": "2022-10-23T12:21:08+01:00",
+				"url": "https://thedent.net/2022/10/23/am-i-being.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/22/sleep-well.html",
+				
+				"content_html": "<p>Sleep well. 🎃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Sleep well. 🎃 \n\n<img src=\"https://thedent.net/uploads/2022/0fd82d6c58.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://thedent.net/uploads/2022/5a698ffafe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-22T12:44:06+01:00",
+				"url": "https://thedent.net/2022/10/22/sleep-well.html",
+				"tags": ["Photography","Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/21/ive-renewed-and.html",
+				
+				"content_html": "<p>I’ve renewed and cancelled HEY twice in the last week or so and I can’t seem to just give up on it. I can’t really put my finger on why really. I don’t need it, it doesn’t really fit how I use email but … I just kinda like having it.</p>\n",
+				"content_text": "I’ve renewed and cancelled HEY twice in the last week or so and I can’t seem to just give up on it. I can’t really put my finger on why really. I don’t need it, it doesn’t really fit how I use email but … I just kinda like having it. \n",
+				"date_published": "2022-10-21T21:08:12+01:00",
+				"url": "https://thedent.net/2022/10/21/ive-renewed-and.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/21/im-catching-up.html",
+				
+				"content_html": "<p>I&rsquo;m catching up on some Apple TV shows, starting with Trying. It&rsquo;s a sweet show, and an easy watch, but the couple it centers around are so annoyingly perfect, whilst spending the whole time bemoaning how hard they have it, and how flawed they are etc.</p>\n",
+				"content_text": "I'm catching up on some Apple TV shows, starting with Trying. It's a sweet show, and an easy watch, but the couple it centers around are so annoyingly perfect, whilst spending the whole time bemoaning how hard they have it, and how flawed they are etc.\n",
+				"date_published": "2022-10-21T09:33:58+01:00",
+				"url": "https://thedent.net/2022/10/21/im-catching-up.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/20/i-discovered-grouped.html",
+				
+				"content_html": "<p>I discovered grouped Tabs in Edge today. I&rsquo;m love it!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I discovered grouped Tabs in Edge today. I'm love it!\n\n<img src=\"https://thedent.net/uploads/2022/921cbb52ee.png\" width=\"223\" height=\"328\" alt=\"\">\n",
+				"date_published": "2022-10-20T15:51:31+01:00",
+				"url": "https://thedent.net/2022/10/20/i-discovered-grouped.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/20/i-really-do.html",
+				
+				"content_html": "<p>I really do hate how publishers put these ugly fake stickers in the cover art of books / audiobooks. 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I really do hate how publishers put these ugly fake stickers in the cover art of books / audiobooks. 📚 \n\n<img src=\"https://thedent.net/uploads/2022/2209da0171.png\" width=\"276\" height=\"600\" alt=\"Book cover of The Midnight Library\">\n",
+				"date_published": "2022-10-20T08:27:50+01:00",
+				"url": "https://thedent.net/2022/10/20/i-really-do.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/20/ive-fully-dropped.html",
+				
+				"content_html": "<p>I’ve fully dropped Goodreads for <a href=\"https://literal.club/\">Literal Book Club</a>. It’s a nicer, and more <em>modern</em> service.</p>\n",
+				"content_text": "I’ve fully dropped Goodreads for [Literal Book Club](https://literal.club/). It’s a nicer, and more *modern* service. \n",
+				"date_published": "2022-10-20T08:25:51+01:00",
+				"url": "https://thedent.net/2022/10/20/ive-fully-dropped.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/20/stupidly-excited-to.html",
+				
+				"content_html": "<p>Stupidly excited to play through the Modern Warfare 2 campaign this evening 🎮</p>\n",
+				"content_text": "Stupidly excited to play through the Modern Warfare 2 campaign this evening 🎮\n",
+				"date_published": "2022-10-20T08:00:52+01:00",
+				"url": "https://thedent.net/2022/10/20/stupidly-excited-to.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/20/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781786892713\">The Midnight Library</a> by Matt Haig 📚</p>\n",
+				"content_text": "Currently reading: [The Midnight Library](https://micro.blog/books/9781786892713) by Matt Haig 📚\n",
+				"date_published": "2022-10-20T07:44:06+01:00",
+				"url": "https://thedent.net/2022/10/20/currently-reading-the.html",
+				"tags": ["Microblog","Books"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/19/i-started-writing.html",
+				
+				"content_html": "<p>I started writing up some thoughts about the iPad sentiments going around, but that may be one to let brew for a while I think. Enough hot takes to keep people busy for now.</p>\n",
+				"content_text": "I started writing up some thoughts about the iPad sentiments going around, but that may be one to let brew for a while I think. Enough hot takes to keep people busy for now. \n",
+				"date_published": "2022-10-19T23:36:15+01:00",
+				"url": "https://thedent.net/2022/10/19/i-started-writing.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/10/19/a-web-version.html",
+				
+				"content_html": "<p>A <a href=\"https://dayoneapp.com/web-launch-preview/?utm_source=email&amp;utm_medium=newsletter&amp;utm_campaign=warmup\">web version of Day One</a> sounds <em>super</em> interesting.</p>\n",
+				"content_text": "A [web version of Day One](https://dayoneapp.com/web-launch-preview/?utm_source=email&utm_medium=newsletter&utm_campaign=warmup) sounds *super* interesting. \n",
+				"date_published": "2022-10-19T17:50:12+01:00",
+				"url": "https://thedent.net/2022/10/19/a-web-version.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://andynicolaides.micro.blog/2022/10/19/as-expected-there.html",
 				
 				"content_html": "<p>As expected, there are certainly things to like about Fastmail (it’s … fast, search is nice, the filtering is handy, having an option of tags vs. Folders etc), but it really doesn’t give me any core / important features iCloud mail isn’t already doing. I can’t really justify it.</p>\n",
