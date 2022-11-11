@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://andynicolaides.micro.blog/2022/11/09/this-is-probably.html",
+				
+				"content_html": "<p>This is probably … unwise.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is probably … unwise. \n\n<img src=\"uploads/2022/5f14f777d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-11-09T14:23:56+00:00",
+				"url": "https://thedent.net/2022/11/09/this-is-probably.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/08/im-thinking-marvel.html",
+				
+				"content_html": "<p>I’m thinking Marvel Snap <em>and</em> Hearthstone being on my Sleep Homescreen is unwise.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m thinking Marvel Snap *and* Hearthstone being on my Sleep Homescreen is unwise. \n\n<img src=\"uploads/2022/fa99803a10.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-08T23:53:04+00:00",
+				"url": "https://thedent.net/2022/11/08/im-thinking-marvel.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/08/google-youtube-really.html",
+				
+				"content_html": "<p>Google / YouTube <em>really</em> know how to make you feel special. A real valued part of the community. Love from User 8777308186565245205 x</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Google / YouTube *really* know how to make you feel special. A real valued part of the community. Love from User 8777308186565245205 x\n\n<img src=\"uploads/2022/1449555d43.png\" width=\"478\" height=\"71\" alt=\"\">\n",
+				"date_published": "2022-11-08T10:08:50+00:00",
+				"url": "https://thedent.net/2022/11/08/google-youtube-really.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/08/new-season-of.html",
+				
+				"content_html": "<p>New season of Marvel snap let’s goooo. I’ve made a terrible mistake and slipped into tier 3 without realising it, however, and am now getting trounced.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New season of Marvel snap let’s goooo. I’ve made a terrible mistake and slipped into tier 3 without realising it, however, and am now getting trounced.\n\n<img src=\"uploads/2022/394c0175c9.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-08T08:07:20+00:00",
+				"url": "https://thedent.net/2022/11/08/new-season-of.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/07/there-are-a.html",
+				
+				"content_html": "<p>There are a lot of posts and comments around about the things Mastodon <em>needs</em> to do to be more like Twitter, but who actually wants that? How well has being Twitter done for Twitter? Mastodon <em>can</em> be it’s own thing and have a level of success. The whole point of it, as I can see it, is that it’s community run so it’s barometer of success should never be the same as Twitter’s.</p>\n",
+				"content_text": "There are a lot of posts and comments around about the things Mastodon *needs* to do to be more like Twitter, but who actually wants that? How well has being Twitter done for Twitter? Mastodon *can* be it’s own thing and have a level of success. The whole point of it, as I can see it, is that it’s community run so it’s barometer of success should never be the same as Twitter’s.\n",
+				"date_published": "2022-11-07T12:39:35+00:00",
+				"url": "https://thedent.net/2022/11/07/there-are-a.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/05/you-know-muskyboy.html",
+				
+				"content_html": "<p>You <em>know</em> Musky-boy wrote these release notes himself.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "You *know* Musky-boy wrote these release notes himself.\n\n<img src=\"https://thedent.net/uploads/2022/e7518e481b.jpg\" width=\"600\" height=\"426\" alt=\"\">\n",
+				"date_published": "2022-11-05T22:57:06+00:00",
+				"url": "https://thedent.net/2022/11/05/you-know-muskyboy.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/11/05/i-love-a.html",
+				
+				"content_html": "<p>I love a good emoji in my folder names.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love a good emoji in my folder names.\n\n<img src=\"https://thedent.net/uploads/2022/1d7c8e82af.jpg\" width=\"269\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-05T10:47:49+00:00",
+				"url": "https://thedent.net/2022/11/05/i-love-a.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://andynicolaides.micro.blog/2022/11/05/the-excellent-arc.html",
 				
 				"content_html": "<p>The excellent Arc browser ‘may’ be coming to <a href=\"https://youtu.be/bOMQiMxh5Bc\">Windows</a>. Very excited for the possibility!</p>\n",
@@ -19,7 +82,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/03/its-pretty-crazy.html",
 				
 				"content_html": "<p>It’s pretty crazy that I’ve had this World of Warcraft character for <strong>15 years</strong> now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s pretty crazy that I’ve had this World of Warcraft character for **15 years** now. \n\n<img src=\"uploads/2022/1d3fb32b05.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "It’s pretty crazy that I’ve had this World of Warcraft character for **15 years** now. \n\n<img src=\"https://thedent.net/uploads/2022/1d3fb32b05.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-11-03T21:20:59+00:00",
 				"url": "https://thedent.net/2022/11/03/its-pretty-crazy.html",
 				"tags": ["Microblog"]
@@ -37,7 +100,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/03/the-problem-with.html",
 				
 				"content_html": "<p>The problem with Marvel Snap being so good is that it&rsquo;s made me want to play this again &hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The problem with Marvel Snap being so good is that it's made me want to play this again ... \n\n<img src=\"uploads/2022/0be2bf131e.png\" width=\"600\" height=\"418\" alt=\"\">\n",
+				"content_text": "The problem with Marvel Snap being so good is that it's made me want to play this again ... \n\n<img src=\"https://thedent.net/uploads/2022/0be2bf131e.png\" width=\"600\" height=\"418\" alt=\"\">\n",
 				"date_published": "2022-11-03T17:40:12+00:00",
 				"url": "https://thedent.net/2022/11/03/the-problem-with.html",
 				"tags": ["Microblog"]
@@ -46,7 +109,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/03/puddle.html",
 				
 				"content_html": "<p>Puddle</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Puddle\n\n<img src=\"uploads/2022/639212a1fa.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Puddle\n\n<img src=\"https://thedent.net/uploads/2022/639212a1fa.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-03T15:13:19+00:00",
 				"url": "https://thedent.net/2022/11/03/puddle.html",
 				"tags": ["Photography","Microblog"]
