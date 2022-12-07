@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://andynicolaides.micro.blog/2022/12/07/foogy-walk.html",
+				
+				"content_html": "<p>Foogy Walk 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Foogy Walk 📸\n\n<img src=\"uploads/2022/47e9a00565.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n",
+				"date_published": "2022-12-07T08:04:24+00:00",
+				"url": "https://thedent.net/2022/12/07/foogy-walk.html",
+				"tags": ["Photography","Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/12/06/webloglol-is-wonderful.html",
+				"title": "Weblog.lol is Wonderful",
+				"content_html": "<p>If you’ve followed me for any length of time you’ll have seen that I’m a serial blog starter / mover / abandoner. I’ve tried my best to be consistent, but I just love trying out new services. My current favourite plaything is my omg.lol <a href=\"https://andyn.weblog.lol/\">weblog</a>. It’s also accessible from <a href=\"https://blog.acn.lol\">blog.acn.lol</a> which I setup as a redirect.</p>\n<p>It’s barebones at the moment, as it’s still in an ‘pre-alpha alpha phase’ and I’m assuming it’ll remain fairly barebones until release and beyond. It may look simple, but I’m having a real blast playing around with it. <a href=\"https://adam.omg.lol/\">Adam</a>, the creator, is releasing features for it daily in December, and announcing them via yet <em>another</em> fun feature, the <a href=\"https://home.omg.lol/advent\">25 days of omg.lol Advent calendar!</a>￼.</p>\n<p>So far I have the <a href=\"https://blog.acn.lol\">main page</a>, an <a href=\"https://andyn.weblog.lol/about\">an About page placeholder</a> and even a <a href=\"https://andyn.weblog.lol/dead\">custom 404 page</a>. It’s all still a work in progress my end also. I’m not spending too much time working on a theme or editing too much in case it gets reset as part of the alpha process, but it’s been great to learn about the new features daily and then applying it to my own blog.</p>\n<p>The <a href=\"https://home.omg.lol/\">omg.lol</a> service continues to grow with great additions and I, again, am having a great time embracing everything that’s added. So far, as part of my subscription, I have the main <a href=\"https://acn.lol/\">profile</a>, the <a href=\"https://blog.acn.lol/\">blog</a>, a <a href=\"https://paste.acn.lol/\">pastebin</a> for sharing text snippets, a <a href=\"https://status.acn.lol/\">status board</a>, a way to create <a href=\"https://urls.acn.lol/\">PURLs</a> and … whatever <a href=\"https://tilde.acn.lol/\">this</a> is. It also gives me access to a wonderful <a href=\"https://social.lol/\">Mastodon instance</a>.</p>\n<p>I genuinely am trying to move my blog less, so for now I’m going to maintain my <a href=\"https://thedent.net/\">main blog</a>, but also post to and experiment with weblog.lol and just see how things pan out.</p>\n<p>I’m sorry to gush over this, but there are so few sites on the internet <em>these days</em> that give me this kind of joy to visit. Adam is a machine when it comes to the work and polish he’s putting into it and he wholeheartedly deserves the £5 a year fee. It’s going up to £20 a year next year and, if this helps to keep support coming, he absolutely deserves that amount also. I can’t recommend the entire omg.lol <em>suite</em> of services more.</p>",
+				"content_text": "If you’ve followed me for any length of time you’ll have seen that I’m a serial blog starter / mover / abandoner. I’ve tried my best to be consistent, but I just love trying out new services. My current favourite plaything is my omg.lol [weblog](https://andyn.weblog.lol/). It’s also accessible from [blog.acn.lol](https://blog.acn.lol) which I setup as a redirect. \n\n<!--more-->\n\nIt’s barebones at the moment, as it’s still in an ‘pre-alpha alpha phase’ and I’m assuming it’ll remain fairly barebones until release and beyond. It may look simple, but I’m having a real blast playing around with it. [Adam](https://adam.omg.lol/), the creator, is releasing features for it daily in December, and announcing them via yet _another_ fun feature, the [25 days of omg.lol Advent calendar!](https://home.omg.lol/advent)￼.\n\nSo far I have the [main page](https://blog.acn.lol), an [an About page placeholder](https://andyn.weblog.lol/about) and even a [custom 404 page](https://andyn.weblog.lol/dead). It’s all still a work in progress my end also. I’m not spending too much time working on a theme or editing too much in case it gets reset as part of the alpha process, but it’s been great to learn about the new features daily and then applying it to my own blog. \n\nThe [omg.lol](https://home.omg.lol/) service continues to grow with great additions and I, again, am having a great time embracing everything that’s added. So far, as part of my subscription, I have the main [profile](https://acn.lol/), the [blog](https://blog.acn.lol/), a [pastebin](https://paste.acn.lol/) for sharing text snippets, a [status board](https://status.acn.lol/), a way to create [PURLs](https://urls.acn.lol/) and … whatever [this](https://tilde.acn.lol/) is. It also gives me access to a wonderful [Mastodon instance](https://social.lol/).\n\nI genuinely am trying to move my blog less, so for now I’m going to maintain my [main blog](https://thedent.net/), but also post to and experiment with weblog.lol and just see how things pan out. \n\nI’m sorry to gush over this, but there are so few sites on the internet _these days_ that give me this kind of joy to visit. Adam is a machine when it comes to the work and polish he’s putting into it and he wholeheartedly deserves the £5 a year fee. It’s going up to £20 a year next year and, if this helps to keep support coming, he absolutely deserves that amount also. I can’t recommend the entire omg.lol _suite_ of services more. \n",
+				"date_published": "2022-12-06T23:23:44+00:00",
+				"url": "https://thedent.net/2022/12/06/webloglol-is-wonderful.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/12/06/looks-like-my.html",
+				
+				"content_html": "<p>Looks like my micro.blog posts are showing up again. Thanks <a href=\"https://micro.blog/sod\">@sod</a> !</p>\n",
+				"content_text": "Looks like my micro.blog posts are showing up again. Thanks [@sod](https://micro.blog/sod) !\n",
+				"date_published": "2022-12-06T19:48:00+00:00",
+				"url": "https://thedent.net/2022/12/06/looks-like-my.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/12/05/date-december.html",
+				"title": "What I’d Like To See Added to Weblog.lol",
+				"content_html": "<p>Firstly, I will caveat this by saying I know this is both an alpha / pre-alpha product <!-- raw HTML omitted -->and<!-- raw HTML omitted --> designed to be simple and lightweight so the following wish list items are, for the most part, either unlikely, or just not fitting with the goal, but posting here’s fun, so why not throw some things out there! The service is still very much in its infancy so it’s quite likely some of these things are indeed in the pipeline. Adam is revealing new additions as he develops them via a very cool (and well made!) <!-- raw HTML omitted -->25 days of omg.lol<!-- raw HTML omitted --> advent calendar so please follow along if you’re interested. I don’t know if the fact these reveals are the highlight of my day at the moment is depressing or not!<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Firstly, I will caveat this by saying I know this is both an alpha / pre-alpha product <em>and</em> designed to be simple and lightweight so the following wish list items are, for the most part, either unlikely, or just not fitting with the goal, but posting here’s fun, so why not throw some things out there! The service is still very much in its infancy so it’s quite likely some of these things are indeed in the pipeline. Adam is revealing new additions as he develops them via a very cool (and well made!) <a href=\"https://home.omg.lol/advent\">25 days of omg.lol</a> advent calendar so please follow along if you’re interested. I don’t know if the fact these reveals are the highlight of my day at the moment is depressing or not!</p>\n\n<ul>\n<li><strong>API support for posting</strong></li>\n</ul>\n\n<p>Whilst I love the web editor, it would be handy to be able to submit posts via an API call from Shortcuts or Drafts. This is, I would imagine, the most likely one to happen given how well Adam has <a href=\"https://api.omg.lol/\">supported APIs</a> so far with the various <a class=\"autolink\" href=\"https://omg.lol\">omg.lol</a> services.</p>\n\n<ul>\n<li><strong>Easier customisation</strong></li>\n</ul>\n\n<p>Customisation so far is pretty easy, I’ve managed to change the colour scheme up a little myself even, but it will be nice to be able to do this a little easier than coding it may hand. I’m a bit of a moron, so have been unable to differentiate the colour of the blog title versus a blog post title. By the <a href=\"https://advent.weblog.lol/day-3\">looks of the Day 3 reveal</a>, this looks like it’s already in the works, which is just incredible. I can see this being such a good option for people that just want to get words to <em>paper</em> without a whole lot of pissing about.</p>\n\n<ul>\n<li><strong>Images</strong></li>\n</ul>\n\n<p>I going to say that this is the least likely thing to happen, but it would be nice to be able to have a small profile image in the header of your blog, and / or maybe one image in the blog post itself. This is unlikely for a few reasons I’d say. Firstly, images add an extra storage cost to the mix that is far less of an issue when you’re storing simple text. It also can go against the <em>simplicity</em> goal of the service as a whole. You can host an image elsewhere, and insert them into a post vis Markdown, however, but the images are huge and break the template so hopefully it will be updated to control image width to something suitable. This keeps it simple for most users, but gives others an option for images as long as they can host things elsewhere.</p>\n\n<p>I’m really looking forward to seeing what’s added and, being a serial blog switcher, I’m very likely to start posting here full time once it’s launched. </p>\n",
+				"date_published": "2022-12-05T23:37:17+00:00",
+				"url": "https://thedent.net/2022/12/05/date-december.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/12/02/since-disconnecting-my.html",
+				
+				"content_html": "<p>Since disconnecting my personal domain from my micro.blog account the original link has been dead. It&rsquo;s supposed to be <a href=\"https://andynicolaide.micro.blog/\">andynicolaide.micro.blog</a> &hellip; right?</p>\n<p>This is an example of one of the things that make me consider moves so often. Things that should work just &hellip; don&rsquo;t &hellip; far too often. I pay my fee and then have to spend hours getting the thing to actually work.</p>\n",
+				"content_text": "Since disconnecting my personal domain from my micro.blog account the original link has been dead. It's supposed to be [andynicolaide.micro.blog](https://andynicolaide.micro.blog/) ... right?\n\nThis is an example of one of the things that make me consider moves so often. Things that should work just ... don't ... far too often. I pay my fee and then have to spend hours getting the thing to actually work.\n",
+				"date_published": "2022-12-02T13:48:18+00:00",
+				"url": "https://thedent.net/2022/12/02/since-disconnecting-my.html",
+				"tags": ["Microblog"]
+			},
+			{
+				"id": "http://andynicolaides.micro.blog/2022/12/02/i-use-iawriter.html",
+				
+				"content_html": "<p>I use iAWriter when posting to micro.blog from my iPad or iPhone, but are there any good editors to use on desktop (PC mainly) for posting here as well? <a href=\"https://micro.blog/Manton\">@Manton</a> are there any plans to improve the post web editor at all? It&rsquo;s extremely barebones when it comes to writing larger blog posts (with images etc.)</p>\n",
+				"content_text": "I use iAWriter when posting to micro.blog from my iPad or iPhone, but are there any good editors to use on desktop (PC mainly) for posting here as well? [@Manton](https://micro.blog/Manton) are there any plans to improve the post web editor at all? It's extremely barebones when it comes to writing larger blog posts (with images etc.)\n",
+				"date_published": "2022-12-02T11:43:46+00:00",
+				"url": "https://thedent.net/2022/12/02/i-use-iawriter.html",
+				"tags": ["Microblog"]
+			},
+			{
 				"id": "http://andynicolaides.micro.blog/2022/11/18/finished-reading-christine.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781444720709\">Christine</a> by Stephen King 📚</p>\n",
@@ -19,7 +73,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/09/this-is-probably.html",
 				
 				"content_html": "<p>This is probably … unwise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is probably … unwise. \n\n<img src=\"uploads/2022/5f14f777d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This is probably … unwise. \n\n<img src=\"https://andynicolaides.micro.blog/uploads/2022/5f14f777d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-09T14:23:56+00:00",
 				"url": "https://thedent.net/2022/11/09/this-is-probably.html",
 				"tags": ["Microblog"]
@@ -28,7 +82,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/08/im-thinking-marvel.html",
 				
 				"content_html": "<p>I’m thinking Marvel Snap <em>and</em> Hearthstone being on my Sleep Homescreen is unwise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m thinking Marvel Snap *and* Hearthstone being on my Sleep Homescreen is unwise. \n\n<img src=\"uploads/2022/fa99803a10.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m thinking Marvel Snap *and* Hearthstone being on my Sleep Homescreen is unwise. \n\n<img src=\"https://andynicolaides.micro.blog/uploads/2022/fa99803a10.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-08T23:53:04+00:00",
 				"url": "https://thedent.net/2022/11/08/im-thinking-marvel.html",
 				"tags": ["Microblog"]
@@ -37,7 +91,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/08/google-youtube-really.html",
 				
 				"content_html": "<p>Google / YouTube <em>really</em> know how to make you feel special. A real valued part of the community. Love from User 8777308186565245205 x</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Google / YouTube *really* know how to make you feel special. A real valued part of the community. Love from User 8777308186565245205 x\n\n<img src=\"uploads/2022/1449555d43.png\" width=\"478\" height=\"71\" alt=\"\">\n",
+				"content_text": "Google / YouTube *really* know how to make you feel special. A real valued part of the community. Love from User 8777308186565245205 x\n\n<img src=\"https://andynicolaides.micro.blog/uploads/2022/1449555d43.png\" width=\"478\" height=\"71\" alt=\"\">\n",
 				"date_published": "2022-11-08T10:08:50+00:00",
 				"url": "https://thedent.net/2022/11/08/google-youtube-really.html",
 				"tags": ["Microblog"]
@@ -46,7 +100,7 @@
 				"id": "http://andynicolaides.micro.blog/2022/11/08/new-season-of.html",
 				
 				"content_html": "<p>New season of Marvel snap let’s goooo. I’ve made a terrible mistake and slipped into tier 3 without realising it, however, and am now getting trounced.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New season of Marvel snap let’s goooo. I’ve made a terrible mistake and slipped into tier 3 without realising it, however, and am now getting trounced.\n\n<img src=\"uploads/2022/394c0175c9.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_text": "New season of Marvel snap let’s goooo. I’ve made a terrible mistake and slipped into tier 3 without realising it, however, and am now getting trounced.\n\n<img src=\"https://andynicolaides.micro.blog/uploads/2022/394c0175c9.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-08T08:07:20+00:00",
 				"url": "https://thedent.net/2022/11/08/new-season-of.html",
 				"tags": ["Microblog"]
